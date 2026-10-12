@@ -11,7 +11,4 @@ workspace: it records the repository map, integration checkpoints and the shared
 engineering rules. Each package keeps its own public interface, checks and
 releases; start from its README and root entry Commentary.
 
-The documentation is published at <https://etaf.top>. This organization is the
-project's public home; the same commits are mirrored at
-<https://forgejo.vhkd.top/emacs-taf> and
-<https://gitea.gklazycat.heiyu.space/emacs-taf>.
+The documentation is published at <https://etaf.top>.
