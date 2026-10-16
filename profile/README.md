@@ -4,6 +4,7 @@
   <a href="https://etaf.top"><img src="https://img.shields.io/badge/docs-etaf.top-7c58d6" alt="Documentation"></a>
   <a href="#license"><img src="https://img.shields.io/badge/license-GPL--3.0-blue" alt="License: GPL-3.0 or later"></a>
   <img src="https://img.shields.io/badge/Emacs-29.1%2B-7c58d6" alt="Emacs 29.1 or later">
+  <a href="https://t.me/vhkdzszh"><img src="https://img.shields.io/badge/Telegram-@vhkdzszh-26A5E4?logo=telegram&logoColor=white" alt="Telegram channel"></a>
 </p>
 
 **ETAF** builds complete text applications in Emacs with a web-style model:
@@ -143,7 +144,9 @@ behavior.
 
 Each repository runs its own checks (`make check`); the workspace repositories
 orchestrate them in dependency order. Issues and pull requests are welcome in
-the repository they concern.
+the repository they concern. Follow the
+[Telegram channel t.me/vhkdzszh](https://t.me/vhkdzszh), or reach the
+maintainer at [@geekinney](https://t.me/geekinney).
 
 ## License
 
