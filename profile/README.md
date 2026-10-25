@@ -34,6 +34,7 @@ interface, checks and releases.
 | [ebox](https://github.com/emacs-taf/ebox) | Box/Flex/Grid layout, rendering and incremental buffer updates |
 | [etaf](https://github.com/emacs-taf/etaf) | Components, reactive state, hosts and the application lifecycle |
 | [etaf-ui](https://github.com/emacs-taf/etaf-ui) | Reusable UI components: buttons, forms, panels and window shells |
+| [etaf-posframe](https://github.com/emacs-taf/etaf-posframe) | Floating child-frame panels for any ETAF View: title bar, theme modes and edge resizing |
 | [etaf-db](https://github.com/emacs-taf/etaf-db) | Data backends for ETAF applications; SQLite today |
 
 Games also use [etaf-gamekit](https://github.com/emacs-taf/etaf-gamekit),
@@ -56,6 +57,7 @@ repository, history and checks, and installs the framework packages it needs.
 | [etaf-telega](https://github.com/emacs-taf/etaf-telega) | Telegram client on Telega's TDLib backend: chats, live message stream, composer and message actions |
 | [etaf-desktop](https://github.com/emacs-taf/etaf-desktop) | Desktop manager: windows, workspaces, focus order and z-order |
 | [etaf-ascii-video](https://github.com/emacs-taf/etaf-ascii-video) | Video and HTTP(S) streams inside an Emacs buffer as pure characters |
+| [etaf-pomodoro](https://github.com/emacs-taf/etaf-pomodoro) | Focus timer as a window or a floating panel: reactive countdown, three styles and a host-following palette |
 
 ### In development
 
